@@ -19,6 +19,10 @@ The following are suggested books, papers, websites and other resources for rein
 
 * Curran, P. J., Obeidat, K., & Losardo, D. (2010). Twelve Frequently Asked Questions About Growth Curve Modeling. Journal of cognition and development : official journal of the Cognitive Development Society, 11(2), 121–136. https://doi.org/10.1080/15248371003699969
 
+### Courses
+
+* Centre for Multilevel Modeling, University of Bristol. https://www.bristol.ac.uk/cmm/
+
 ### Videos
 
 * CenterStat. Growth Modeling. [LINK](https://www.youtube.com/playlist?list=PLQGe6zcSJT0VxMZUN6DBuhIoCRZNoA2Vz) 

@@ -19,7 +19,6 @@ The course programme can be viewed [here]https://github.com/DiarmuidM/sgsss-mode
 The training materials can be found in the following folders:
 * [code](./code) - Jupyter Notebooks containing executable R and Stata code for the practical lessons.
 * [data](./data) - Datasets used in the practical lessons.
-* [installation](./installation) - Guidance on installing Python Jupyter Notebooks.
 * [presentations](./presentations) - PDF versions of the course lectures.
 * [reading](./reading) - Lists of interesting and relevant learning resources.
 

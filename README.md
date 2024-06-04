@@ -12,7 +12,7 @@ This repository houses the materials underpinning a [2-hour SGSSS course on grow
 
 ### Programme
 
-The course programme can be viewed [here]https://github.com/DiarmuidM/sgsss-modeling-trajectories-2024/blob/main/sgsss-2024-web-scraping-course-outline-2024-06-05.pdf).
+The course programme can be viewed [here](https://github.com/DiarmuidM/sgsss-modeling-trajectories-2024/blob/main/sgsss-2024-web-scraping-course-outline-2024-06-05.pdf).
 
 ### Materials
 

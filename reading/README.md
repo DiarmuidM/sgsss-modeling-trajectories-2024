@@ -14,6 +14,7 @@ The following are suggested books, papers, websites and other resources for rein
 
 * Mirman, D. (2014). Growth Curve Analysis and Visualization Using R. CRC Press.
 * Cernat, A. (2023). Longitudinal Data Analysis Using R. Leanpub. 
+* Clark, M. (2024). Mixed Models with R. https://m-clark.github.io/mixed-models-with-R/
 
 ### Journal Articles
 
